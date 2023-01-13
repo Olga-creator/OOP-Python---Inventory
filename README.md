@@ -50,6 +50,8 @@ Learn more about [forking](https://help.github.com/en/github/getting-started-wit
 
 ## How to use project <a name="paragraph33"></a>
 
+When the program is started, the main menu will be displayed in order for a user to choose from the options provided. 
+
 This program will help to get:
 
 1) Overview of all warehouse items
@@ -57,7 +59,7 @@ This program will help to get:
 
 
 2) Capture stock
-3) 
+ 
 <br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20a.png" title="Code button" width="500"/>
 
 
