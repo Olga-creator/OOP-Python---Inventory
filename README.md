@@ -31,6 +31,8 @@ Click [here](https://www.python.org/downloads/windows/) to install Python.
 
 Follow these steps:
 
+Click [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install Git.
+
 Clone the Repository
 
 user@pc:~$ git clone https://github.com/Olga-creator/finalCapstone.git   ??????????????????
