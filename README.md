@@ -1,12 +1,25 @@
 ## **OPP Python - Capstone Project - Inventory**
 
-### **About the Project**
-
+### **About the Project** <a name="project"></a>
 This program is to be used by a store manager, who is responsible for managing the warehouse, and more importantly, doing stock taking. 
 To optimise their delivery time and for improved organisation, this program will help to get an overview of all warehouse items, capture stock, restock items, 
 perform searching items by code, overview the value of each item in stock, and find a stock item with the lowest and highest quantities.
 
 ### **Table of Contents**
+1. [About the Project](#project)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
 
 About the Project
 
