@@ -54,9 +54,12 @@ This program will help to get:
 
 1) Overview of all warehouse items
 
-<br><img src="https://docs.github.com/assets/images/help/repository/code-button.png" title="Code button" width="400"/>
+
 
 2) Capture stock
+3) 
+<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20a.png" title="Code button" width="500"/>
+
 
 3) Restock items
 
