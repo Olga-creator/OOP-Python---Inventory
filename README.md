@@ -11,23 +11,24 @@ perform searching items by code, overview the value of each item in stock, and f
 3. [Required Installations](#paragraph2)
     1. [Installing](#subparagraph1)
     2. [Instructions](#subparagraph2)
-4. [Contact](#paragraph3)
-5. [Special Thanks](#paragraph4)
-6. [Contributing](#paragraph5)
-7. [Show your support](#paragraph6)
+4. [How to use project](#paragraph33)
+5. [Contact](#paragraph3)
+6. [Special Thanks](#paragraph4)
+7. [Contributing](#paragraph5)
+8. [Show your support](#paragraph6)
 
 ## Built With <a name="paragraph1"></a>
 The project was developed using Python.
 
 ## Required Installations <a name="paragraph2"></a>
 
-## Installing <a name="subparagraph1"></a>
+### Installing <a name="subparagraph1"></a>
 Install the following to get this project running in your machine:
 Python
 
 Click [here](https://www.python.org/downloads/windows/) to install Python. 
 
-## Instructions <a name="subparagraph2"></a>
+### Instructions <a name="subparagraph2"></a>
 
 Follow these steps:
 
@@ -46,6 +47,8 @@ For example, run this command inside your terminal:
     git clone https://github.com/<your-github-username>/finalCapstone.git
 
 Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+
+## How to use project <a name="paragraph33"></a>
 
 ## Contact <a name="paragraph3"></a>
 💃 **Olga Paksevatkina**
