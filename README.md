@@ -3,7 +3,7 @@
 ## **About the Project** <a name="project"></a>
 This program is to be used by a store manager, who is responsible for managing the warehouse, and more importantly, doing stock taking. Other store managers of the company in other regions can also use this programm. 
 To optimise their delivery time and for improved organisation, this program will help to get an overview of all warehouse items, capture stock, restock items, perform searching products by code, overview the value of each item in stock, and find a stock item with the lowest and highest quantities. 
-Warehouses store the following information for each stock-taking list: Country, Code, Product, Cost, Qauntity, Value.
+Warehouses store the following information for each stock-taking list: Country, Code, Product, Cost, Quantity, and Value.
 
 ## **Table of Contents**
 1. [About the Project](#project)
