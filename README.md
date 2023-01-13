@@ -50,6 +50,22 @@ Learn more about [forking](https://help.github.com/en/github/getting-started-wit
 
 ## How to use project <a name="paragraph33"></a>
 
+This program will help to get:
+
+1) Overview of all warehouse items
+
+<br><img src="https://docs.github.com/assets/images/help/repository/code-button.png" title="Code button" width="400"/>
+
+2) Capture stock
+
+3) Restock items
+
+4) Search products by code
+
+5) Overview the value of each item in stock
+
+6) Find a stock item with the highest quantities
+
 ## Contact <a name="paragraph3"></a>
 💃 **Olga Paksevatkina**
 
