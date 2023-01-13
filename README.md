@@ -39,7 +39,7 @@ On the [OOP Python - Capstone Project IV - Inventory](https://github.com/Olga-cr
 
 **Clone** your forked repository to your local machine. 
 
-    For example, run this command inside your terminal:
+For example, run this command inside your terminal:
 
     ```bash
     git clone https://github.com/<your-github-username>/finalCapstone.git
