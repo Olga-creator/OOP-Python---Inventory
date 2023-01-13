@@ -56,7 +56,7 @@ This program will help to get:
 
 1) Overview of all warehouse items
 
-
+<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20va.png" title="Code button" width="500"/>
 
 2) Capture stock
  
@@ -65,11 +65,23 @@ This program will help to get:
 
 3) Restock items
 
+<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20r.png" title="Code button" width="500"/>
+
 4) Search products by code
 
-5) Overview the value of each item in stock
+<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20s.png" title="Code button" width="500"/>
+
+5) Overview of the value of each item in stock
+
+<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20vv.png" title="Code button" width="500"/>
 
 6) Find a stock item with the highest quantities
+
+<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20h.png" title="Code button" width="500"/>
+
+7) Exit
+
+<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20e.png" title="Code button" width="500"/>
 
 ## Contact <a name="paragraph3"></a>
 💃 **Olga Paksevatkina**
