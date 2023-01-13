@@ -1,23 +1,31 @@
 ## **OPP Python - Capstone Project - Inventory**
-Underscores
 
-**About the Project**
+### **About the Project**
 
 This program is to be used by a store manager, who is responsible for managing the warehouse, and more importantly, doing stock taking. 
 To optimise their delivery time and for improved organisation, this program will help to get an overview of all warehouse items, capture stock, restock items, 
 perform searching items by code, overview the value of each item in stock, and find a stock item with the lowest and highest quantities.
 
-Table of Contents
+### **Table of Contents**
 
 About the Project
+
 Built With
+
 Required Installations
+
 Installing
+
 Instructions
+
 Testing
+
 Contact
+
 Contributing
+
 Show your support
+
 
 Built With
 
