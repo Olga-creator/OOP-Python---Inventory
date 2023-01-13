@@ -1,4 +1,4 @@
-# **OPP Python - Capstone Project - Inventory**
+# **OPP Python - Capstone Project IV - Inventory**
 
 ## **About the Project** <a name="project"></a>
 This program is to be used by a store manager, who is responsible for managing the warehouse, and more importantly, doing stock taking. 
