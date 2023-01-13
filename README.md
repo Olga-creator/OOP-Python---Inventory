@@ -41,7 +41,7 @@ On the [OOP Python - Capstone Project IV - Inventory](https://github.com/Olga-cr
 
 For example, run this command inside your terminal:
 
-    ```bash
+    
     
     git clone https://github.com/<your-github-username>/finalCapstone.git
 
