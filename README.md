@@ -36,7 +36,7 @@ Click [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to i
 
 Clone the Repository
 
-On the [OOP Python - Capstone Project IV - Inventory](https://github.com/Olga-creator/finalCapstone.git) repo page, click the **Fork** button.
+On the [OOP Python - Capstone Project IV - Inventory](https://github.com/Olga-creator/OPP-Python---Inventory.git) repo page, click the **Fork** button.
 
 **Clone** your forked repository to your local machine. 
 
@@ -44,7 +44,7 @@ For example, run this command inside your terminal:
 
     
     
-    git clone https://github.com/<your-github-username>/finalCapstone.git
+    git clone https://github.com/<your-github-username>/OPP-Python---Inventory.git
 
 Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
@@ -90,7 +90,7 @@ LinkedIn: [Olga Paksevatkina](https://www.linkedin.com/in/olga-paksevatkina-51b6
 
 GitHub: [@Olga-creator](https://github.com/Olga-creator?tab=repositories)
 
-Project Link: https://github.com/Olga-creator/finalCapstone
+Project Link: https://github.com/Olga-creator/OPP-Python---Inventory
 
 ## Special Thanks <a name="paragraph4"></a>
 Thanks to HyperionDev for this great learning experience and for guiding me on my path as a software developer
